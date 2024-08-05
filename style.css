@@ -356,9 +356,15 @@ footer h1 {
     /* Aumentar a imagem em 20% */
 }
 
-
+/*mobile*/
 @media (max-width:640px) {
 
+    .contato-nav{
+   display: grid;
+  background: #000000;
+  
+   
+}
 
     .contato-nav ul li {
         color: red;
