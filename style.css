@@ -237,6 +237,7 @@ section ul li {
     background: #000000;
     
     margin: 0 auto;
+    
 }
 
 .habilidades,img:hover{
@@ -255,6 +256,7 @@ section ul li {
     overflow: hidden;
     max-width: 1600px;
     margin: 0 auto;
+   
 }
 
 .portifolio h1 {
@@ -422,8 +424,9 @@ footer h1 {
     }
 
     .linguagens img {
-        justify-content: space-between;
+    justify-content: space-around;
         margin-left: 30px;
+        
     }
 
 
